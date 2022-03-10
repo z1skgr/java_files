@@ -66,10 +66,4 @@ graph TD;
 ```
 
  
- ## Setup
-Java IDE environment (Eclipse implemented)
-
-* Import project to eclipse workshop
-* Run as Java application
-
 
