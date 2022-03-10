@@ -6,7 +6,7 @@ A simple program for practise java IS-A mechanisms.
  ## Table of contents
 * [Features](#features)
 * [Hierarchy](#hierarchy)
-* [Setup](#setup)
+
 
  
 
