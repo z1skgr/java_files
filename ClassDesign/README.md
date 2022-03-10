@@ -1,10 +1,10 @@
 # SimpleJava/ClassDesign
- A simple Java program for managing classes
+> A simple Java program for managing classes
  
  ## Table of contents
 * [Features](#features)
 * [Setup](#setup)
-* [Acknowledgements](#acknowledgements)
+
  
 
  
@@ -72,7 +72,3 @@ Java IDE environment (Eclipse implemented)
 * Run as Java application
 
 
-## Acknowledgements
-- This project was one of my very first project for learning Java.
-- This project was created for the requirements of the lesson Structured Programming.
-- Implementation focus on system (class) design
