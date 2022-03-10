@@ -3,6 +3,7 @@
  
  ## Table of contents
 * [Features](#features)
+* [Hierarchy](#hierarchy)
 * [Setup](#setup)
 
  
