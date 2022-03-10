@@ -7,7 +7,7 @@ A simple program for practise java IS-A mechanisms.
 * [Features](#features)
 * [Hierarchy](#hierarchy)
 * [Setup](#setup)
-* [Acknowledgements](#acknowledgements)
+
  
 
  
@@ -77,10 +77,6 @@ Java IDE environment (Eclipse implemented)
 * Run as Java application
 
 
-## Acknowledgements
-- This project was one of my very first project for learning Java.
-- This project was created for the requirements of the lesson Structured Programming.
-- Implementation focus on class hierarcy
 
 
 [^1]: For example, the user may request that the data for all birds be displayed.
