@@ -17,3 +17,4 @@ Java IDE environment (Eclipse implemented)
 - These projects were one of my very first projects for learning Java.
 - Created for the requirements of the lesson Structured Programming.
 - Implementation focus on Class Hierarchy and Polymorphism
+
