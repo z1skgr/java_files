@@ -1,4 +1,4 @@
-# BasicJava
+# Java OOP
 > First steps on java implementing programs preserving Hospital and Zoo records 
   
 ## Parts
