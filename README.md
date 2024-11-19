@@ -1,7 +1,6 @@
 # BasicJava
-> First steps on java 
-
-
+> First steps on java implementing programs preserving Hospital and Zoo records 
+  
 ## Parts
 * [Inheritance](Inheritance/README.md)
 * [ClassDesign](ClassDesign/README.md)
