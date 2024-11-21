@@ -16,8 +16,8 @@ public class Lizards_with_legs extends Lizards {
 	}
 	
 	public void printAnimals(){
-		super.printAnimals();		//methodos ektipwshs . energopoieite kai h methodos ektipwshs tou lizards
-		System.out.println("Arithmos podion: "+ footNumber+"\n");
+		super.printAnimals();		//Print method. Activate superclass print
+		System.out.println("Num Legs "+ footNumber+"\n");
 	}
 }
 

@@ -12,7 +12,7 @@ public class Node {
 		  public void     setNext(Node a)  { next = a;     }
 		  public Node    getNext()            { return next; }
 		  
-		  public void ektipwsi(){		//ektypononte ta stoixeia typou item
+		  public void ektipwsi(){		//Print item objects
 			  info.print();
 		  }
 }

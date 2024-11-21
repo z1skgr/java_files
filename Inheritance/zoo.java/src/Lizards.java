@@ -8,7 +8,7 @@ public class Lizards extends Animals {
 		}
 
 		
-		public void printAnimals(){		//methodos ektipshs gia ths saures.energopoieite kai h methodos print ths uperklashs
+		public void printAnimals(){		//Print method. Activate superclass print
 			super.printAnimals();
 			System.out.println("Methodos Kalypsis: "+coverMethod);
 		}

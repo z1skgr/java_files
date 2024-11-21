@@ -1,15 +1,15 @@
 
 	public class Trainers extends Workers{
-		protected String typeEmployee;	//Metavlites
+		protected String typeEmployee;	//Vars
 		
 		public Trainers(String name,float afm,String typeOfEmployee){		//Constructors
 			super(name,afm);
 			typeEmployee=typeOfEmployee;		
 		}
 		
-		public void printWorkers(){		//Methodos ektypwshs.energopoieite kai h ektipwsh ths yperklashs
+		public void printWorkers(){		//Print method of super class
 			super.printWorkers();
-			System.out.println("Typos ergasias: "+typeEmployee+"\n");
+			System.out.println("Type of work: "+typeEmployee+"\n");
 		}
 
 		public String getTypeEmployee() {	//Getters && Setters

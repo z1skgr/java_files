@@ -7,9 +7,9 @@ public class Birds extends Animals {	//YPOKLASI
 		colorWings=color;
 	}
 	
-	public void printAnimals(){	//Methodos ektipwshs 
-		super.printAnimals(); //energopoieite h methodos ektipwshs ths yperklashs
-		System.out.println("Xroma fteron: "+colorWings+"\n");
+	public void printAnimals(){	//Print method
+		super.printAnimals(); //Activate print from superclass
+		System.out.println("Xroma fteron: "+ colorWings+"\n");
 	}
 
 	public String getColorWings() {		//getters & setters
