@@ -1,5 +1,5 @@
 # SimpleJava/ClassDesign
-> A simple Java program for managing classes
+> A simple Java program for managing classes for Hospital records
  
  ## Table of contents
 * [Features](#features)
@@ -15,35 +15,37 @@
  3. Doctor introduction.
  4. Patient admission.
  5. Insertion of a patient's file.
- 6. Deletion of a patient based on the AMKA.
+ 6. Deletion of a patient based on the VAT.
  7. Search medical records and printing their details
-    * By patient's AMKA
+    * By patient's VAT number
     * By Hospital and Dates
  8. Print the details of all examinations, or doctors, or patients, or files.
 
 ## Hierarchy
 
 *
- ```mermaid
+```mermaid
 graph TD;
     A[Hospital]-->B[Name];
     A[Hospital]-->C[Departs];
 
 ```
-*
- ```mermaid
-graph TD;
-    A[Doctor]-->B[Name-Sur];
-    A[Doctor]-->C[Specialty];
-    A[Doctor]-->D[ID];
 
-```
 *
 ```mermaid
 graph TD;
     A[Doctor]-->B[Name-Sur];
     A[Doctor]-->C[Specialty];
     A[Doctor]-->D[ID];
+
+```
+
+*
+```mermaid
+graph TD;
+    A[Patient]-->B[Name-Sur];
+    A[Patient]-->C[VAT number];
+
 
 ```
 *
@@ -51,9 +53,10 @@ graph TD;
 graph TD;
     A[Hospital Record]-->B[Patient];
     A[Hospital Record]-->C[Doctor];
-    A[Hospital Record]-->D[Import Date ];
-    A[Hospital Record]-->E[Examinations];
-    A[Hospital Record]-->F[Examination Dates];
+    A[Hospital Record]-->D[Import Date];
+    A[Hospital Record]-->E[Export Date];
+    A[Hospital Record]-->F[Examinations];
+    A[Hospital Record]-->G[Examination Dates];
 
 ```
 *
