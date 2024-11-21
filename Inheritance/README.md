@@ -32,7 +32,7 @@ graph TD;
  ```mermaid
 graph TD;
     A[Worker]-->B[Name];
-    A[Worker]-->C[AFM];
+    A[Worker]-->C[VAT];
 ```
 *
  ```mermaid
