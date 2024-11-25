@@ -6,7 +6,7 @@
 * [ClassDesign](ClassDesign/README.md)
 
  ## Setup
-Java IDE environment (Eclipse implemented)
+Java IDE environment ([Eclipse](https://www.eclipse.org/downloads/packages/) implemented)
 
 * Import project to eclipse workshop
 * Run as Java application
